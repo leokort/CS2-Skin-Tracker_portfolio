@@ -22,13 +22,22 @@ data and analysis through a React frontend and Node.js/Express backend.
 
 ### Main Page
 
+The main dashboard provides an overview of tracked CS2 skins,
+their current prices and relevant market information.
+
 ![Main page](screenshots/mainpage-overview.png)
 
 ### Skin Details
 
+The skin details view provides more detailed information about an
+individual skin, including its current price and market data.
+
 ![Skin details](screenshots/Page_details.png)
 
 ### Price Analysis
+
+Price analysis provides historical market data and helps visualize
+how a skin's price has changed over time.
 
 ![Price analysis](screenshots/price-analysis.png)
 
