@@ -8,6 +8,7 @@ Steam Market data.
 This project tracks CS2 skin prices and provides historical price
 data and analysis through a React frontend and Node.js/Express backend.
 
+
 ## Features
 
 - Steam Market price tracking
