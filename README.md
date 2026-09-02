@@ -30,7 +30,7 @@ their current prices and relevant market information.
 ### Skin Details
 
 The skin details view provides more detailed information about an
-individual skin, including its current price and market data.
+individual skin.
 
 ![Skin details](screenshots/Page_details.png)
 
