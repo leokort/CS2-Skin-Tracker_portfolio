@@ -22,15 +22,15 @@ data and analysis through a React frontend and Node.js/Express backend.
 
 ### Main Page
 
-![Main page](mainpage-overview.png)
+![Main page](screenshots/mainpage-overview.png)
 
 ### Price Analysis
 
-![Price analysis](price-analysis.png)
+![Price analysis]screenshots/(price-analysis.png)
 
 ### Skin Details
 
-![Skin details](Page_details.png)
+![Skin details](screenshots/Page_details.png)
 
 ## Backend
 
@@ -39,15 +39,15 @@ price history requests, caching and communication with Steam Market data.
 
 ### Express API
 
-![Express API](express-api-endpoint.png)
+![Express API](screenshots/express-api-endpoint.png)
 
 ### Cache System
 
-![Cache system](cache-system.png)
+![Cache system](screenshots/cache-system.png)
 
 ### Steam API Integration
 
-![Steam API](steam-api-integration.png)
+![Steam API](screenshots/steam-api-integration.png)
 
 ## Technologies
 
