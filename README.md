@@ -65,4 +65,4 @@ price history requests, caching and communication with Steam Market data.
 - Node.js
 - Express.js
 - Axios
-- Steam Market API
+- Vite
