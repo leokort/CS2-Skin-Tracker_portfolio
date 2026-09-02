@@ -24,13 +24,13 @@ data and analysis through a React frontend and Node.js/Express backend.
 
 ![Main page](screenshots/mainpage-overview.png)
 
-### Price Analysis
-
-![Price analysis]screenshots/(price-analysis.png)
-
 ### Skin Details
 
 ![Skin details](screenshots/Page_details.png)
+
+### Price Analysis
+
+![Price analysis](screenshots/price-analysis.png)
 
 ## Backend
 
